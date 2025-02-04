@@ -11,6 +11,8 @@ I am **Rohan Naagar**, a cybersecurity expert, IT leader, and technology enthusi
 
 I am passionate about **AI, ethical hacking, and cybersecurity**, and I am committed to developing **innovative solutions that protect digital assets** while pushing the boundaries of technology.
 
+![Intro Image](asset/into.png).
+
 ## Education
 
 - **Master of Technology (M.Tech) in Cyber Security** – Gurgaon University
@@ -28,7 +30,7 @@ I am passionate about **AI, ethical hacking, and cybersecurity**, and I am commi
 - Provide **cybersecurity consultancy, risk assessment**, and **network security solutions**  
 - Conduct **penetration testing**, **vulnerability assessments**, and **incident response**  
 - Work with businesses to enhance **cybersecurity posture** and **compliance**
-
+  
 ## Skills & Expertise
 
 ### Cybersecurity & IT Management
@@ -56,6 +58,8 @@ I am passionate about **AI, ethical hacking, and cybersecurity**, and I am commi
 - **AWS Certified Solutions Architect** – Amazon Web Services
 - **Microsoft Certified: Azure Security Engineer Associate** – Microsoft
 - **Offensive Security Certified Professional (OSCP)** – Offensive Security
+
+![Qualifications ](asset/quali.png)
 
 ## Notable Projects
 
@@ -93,6 +97,8 @@ I am passionate about **AI, ethical hacking, and cybersecurity**, and I am commi
 - **Security First** – Ensuring technology is **secure & resilient**
 - **Continuous Learning** – Staying ahead in tech
 - **Collaboration** – Working together to achieve excellence
+
+![Experience ](asset/area.png)
 
 ## Connect With Me
 
